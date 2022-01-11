@@ -2,7 +2,7 @@
    
  *jQuery FlexSlider v2.1
  * Copyright 2021 Jonar software company
- * Free to use under the GPLv2 license.
+ * Source code protected under the GPLv2 license.
  * For more javascript codes 
  * Email me: @jonathanmwangangi254@gmail.com
  */
