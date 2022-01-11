@@ -3,7 +3,7 @@
  *jQuery FlexSlider v2.1
  * Copyright 2021 Jonar software company
  * Source code protected under the GPLv2 license.
- * For more javascript codes 
+ * To hire a Software Developer.
  * Email me: @jonathanmwangangi254@gmail.com
  */
 (function(d){d.flexslider=function(j,l){var a=d(j),c=d.extend({},d.flexslider.defaults,l),e=c.namespace,q="ontouchstart"in window||window.DocumentTouch&&document instanceof DocumentTouch,u=q?"touchend":"click",m="vertical"===c.direction,n=c.reverse,h=0<c.itemWidth,s="fade"===c.animation,t=""!==c.asNavFor,f={};d.data(j,"flexslider",a);f={init:function(){a.animating=!1;a.currentSlide=c.startAt;a.animatingTo=a.currentSlide;a.atEnd=0===a.currentSlide||a.currentSlide===a.last;a.containerSelector=c.selector.substr(0,
